@@ -13,7 +13,6 @@ const MainBox = styled(Box)(({ theme }) => ({
   justifyContent: "flex-start",
   alignItems: "center",
   width: "100%",
-  height: "100vh",
   backgroundColor: "#E8E8E8",
   position: "relative",
   "&>p": {
